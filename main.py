@@ -15,7 +15,7 @@ SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']
 SPREADSHEET_ID = '1hoXYiyuArtbd2pxMECteTFSE75LdgvA2Vlb6gPpGJ-g'
 NOME_ABA = 'Contagem'
 INTERVALO = 'C:H'
-WEBHOOK_URL = "https://openapi.seatalk.io/webhook/group/ATSiL-5DRiGnHdV0t2XLlg"
+WEBHOOK_URL = "https://openapi.seatalk.io/webhook/group/uqHQVMpAQkqG1YEwJH8ogQ"
 SERVICE_ACCOUNT_FILE = 'hxh.json'
 
 
