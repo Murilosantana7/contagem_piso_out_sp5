@@ -6,5 +6,4 @@ matplotlib
 Pillow
 numpy
 playwright==1.45.0
-json
 datetime
