@@ -213,10 +213,10 @@ def enviar_imagem_base64(caminho_imagem):
 
 if __name__ == "__main__":
     # NOVA VALIDAÇÃO DE HORÁRIO
-    # aguardar_horario_correto()
+    # aguardar_horario_correto()e
     
     # CÓDIGO ORIGINAL CONTINUA AQUI
-    mensagem_inicial = "@Luis Tiberio | COP | SOC SP5    Segue o piso da expedição:  @Luis Tiberio | COP | SOC SP5 / @All    "
+    mensagem_inicial = "<mention-tag target="seatalk://user?email=luis.tiberio@shopee.com"/>"
     enviar_webhook_texto(mensagem_inicial)
     time.sleep(1)
 
