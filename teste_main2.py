@@ -213,10 +213,10 @@ def enviar_imagem_base64(caminho_imagem):
 
 if __name__ == "__main__":
     # NOVA VALIDAÇÃO DE HORÁRIO
-    aguardar_horario_correto()
+    # aguardar_horario_correto()
     
     # CÓDIGO ORIGINAL CONTINUA AQUI
-    mensagem_inicial = "Segue o piso da expedição:"
+    mensagem_inicial = "Segue o piso da expedição:  @Luis Tiberio | COP | SOC SP5 "
     enviar_webhook_texto(mensagem_inicial)
     time.sleep(1)
 
