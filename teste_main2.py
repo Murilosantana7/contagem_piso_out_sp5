@@ -216,7 +216,7 @@ if __name__ == "__main__":
     # aguardar_horario_correto()
     
     # CÓDIGO ORIGINAL CONTINUA AQUI
-    mensagem_inicial = "@Luis Tiberio | COP | SOC SP5 Segue o piso da expedição:  @Luis Tiberio | COP | SOC SP5"
+    mensagem_inicial = "@Luis Tiberio | COP | SOC SP5    Segue o piso da expedição:  @Luis Tiberio | COP | SOC SP5 / @All    "
     enviar_webhook_texto(mensagem_inicial)
     time.sleep(1)
 
