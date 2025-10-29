@@ -216,7 +216,7 @@ if __name__ == "__main__":
     # aguardar_horario_correto()e
     
     # CÓDIGO ORIGINAL CONTINUA AQUI
-    mensagem_inicial = { "tag": "text", "text": { "format": 1, "content": "Teste <mention-tag target="seatalk://user?email=luis.tiberio@shopee.com"/>" } }
+    mensagem_inicial = { "tag": "text", "text": { "format": 1, "content": "Teste <mention-tag target="seatalk://user?email=luis.tiberio@shopee.com"/>", } }
     enviar_webhook_texto(mensagem_inicial)
     time.sleep(1)
 
